@@ -1,16 +1,19 @@
-## Hi there 👋
+Sobre mim Sou um entusiasta da tecnologia e estudante na área de TI, apaixonado por programação e infraestrutura de redes. Tenho experiência com diversas linguagens e ambientes, sempre buscando aprender e aprimorar minhas habilidades.
 
-<!--
-**pedroincofidentes/pedroincofidentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills JavaScript
 
-Here are some ideas to get you started:
+HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python, C, C++
+
+Auxílio em informática
+
+Infraestrutura de redes
+
+Experiência 📌 Proposta de instalação de cabeamento em um banco Recebi uma proposta para realizar um cabeamento estruturado dentro de um banco que necessitava de um trabalho terceirizado. No projeto, executei:
+
+Instalação de switches, roteadores e racks
+
+Configuração de um patch panel vinculado à rede local
+
+💻 Programação Participei de diversas atividades de programação em múltiplas linguagens, com especial foco na programação, desenvolvendo soluções eficientes e estruturadas para diferentes necessidades.
