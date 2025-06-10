@@ -19,3 +19,5 @@ Instalação de switches, roteadores e racks
 Configuração de um patch panel vinculado à rede local
 
 💻 Programação Participei de diversas atividades de programação em múltiplas linguagens, com especial foco na programação, desenvolvendo soluções eficientes e estruturadas para diferentes necessidades.
+
+Primeiro commit
