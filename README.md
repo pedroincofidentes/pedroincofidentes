@@ -1,4 +1,5 @@
 Sobre mim 
+Meu nome é Pedro Leal Neubauer
 Sou um entusiasta da tecnologia e estudante na área de TI, apaixonado por programação e infraestrutura de redes. Tenho experiência com diversas linguagens e ambientes, sempre buscando aprender e aprimorar minhas habilidades.
 
 Skills JavaScript
